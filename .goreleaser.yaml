@@ -60,3 +60,18 @@ brews:
     commit_author:
       name: goreleaserbot
       email: bot@goreleaser.com
+
+scoops:
+  -
+    name: tid
+    directory: bucket
+    homepage: "https://github.com/stuarthicks/tid"
+    description: "Barebones TypeID CLI generator"
+    license: "MIT"
+    repository:
+      owner: stuarthicks
+      name: scoop-bucket
+    commit_author:
+      name: goreleaserbot
+      email: bot@goreleaser.com
+
