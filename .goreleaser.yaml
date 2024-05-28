@@ -64,10 +64,10 @@ brews:
 scoops:
   -
     name: tid
-    directory: bucket
     homepage: "https://github.com/stuarthicks/tid"
     description: "Barebones TypeID CLI generator"
     license: "MIT"
+    directory: bucket
     repository:
       owner: stuarthicks
       name: scoop-bucket
